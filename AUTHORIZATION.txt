@@ -1,0 +1,18 @@
+   FREEDOM TOOLKIT SECURITY TESTING AUTHORIZATION
+
+   I, Alyssa Blanco, authorize Freedom toolkit security testing.
+
+   Name: Alyssa Blanco
+   Email: a.blanco@northwestern.edu
+   GitHub: dezrds
+   LinkedIn: https://www.linkedin.com/in/alyssa-blanco-8219281b0/
+
+   Authorization Code: NEO-VERIFY-2026-0310-0028
+   Date: 2026-03-10
+   Time: 00:28 UTC
+
+   Scope: Personal devices and accounts owned by Alyssa Blanco
+   Purpose: Security testing and vulnerability assessment
+
+   Signed: Alyssa Blanco
+   Northwestern University Alumni
